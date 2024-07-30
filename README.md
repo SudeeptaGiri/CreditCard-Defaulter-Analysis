@@ -23,13 +23,7 @@ This project is a web application that predicts the likelihood of a credit card 
     cd credit-card-default-prediction
     ```
 
-2. Create a virtual environment and activate it:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use venv\Scripts\activate
-    ```
-
-3. Install the required packages:
+2. Install the required packages:
     ```sh
     pip install -r requirements.txt
     ```
