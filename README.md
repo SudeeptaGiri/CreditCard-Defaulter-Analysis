@@ -52,4 +52,4 @@ The prediction model used in this project is a [type of model, e.g., Random Fore
 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
-Project Link: [https://github.com/yourusername/credit-card-default-prediction](https://github.com/SudeeptaGiri/CreditCard-Defaulter-Analysis.git)
+Project Link: [https://github.com/SudeeptaGiri/CreditCard-Defaulter-Analysis.git](https://github.com/SudeeptaGiri/CreditCard-Defaulter-Analysis.git)
